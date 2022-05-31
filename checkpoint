@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\New folder\\fruitAdulteration_2_fruit\\FruitAdulteration-0.001-2conv-basic.model"
+all_model_checkpoint_paths: "D:\\New folder\\fruitAdulteration_2_fruit\\FruitAdulteration-0.001-2conv-basic.model"
